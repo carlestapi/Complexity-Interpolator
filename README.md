@@ -21,9 +21,8 @@ https://www.firstpr.com.au/dsp/pink-noise/#Voss-McCartney
 
 * E-Z NSynth: https://colab.research.google.com/notebooks/magenta/nsynth/nsynth.ipynb
 
-.  ..__..  ..___.__..  ..__..__ .___._. __..  ..__. __.
-|__||  ||\/|[__ |  ||\/||  |[__)[__  | (__ |\/||  |(__ 
-|  ||__||  |[___|__||  ||__||  \|   _|_.__)|  ||__|.__)
+|_|/~\|\/|(~/~\|\/|/~\|~)|~~|~(~|\/|/~\(~
+| |\_/|  |(_\_/|  |\_/|~\|~_|__)|  |\_/_)
 
 Espacio Sonoro UAMX (.wav link 6 Chanel)
 https://drive.google.com/drive/folders/1fz_HhQn1NnTcXlnMT4OQdLBMriT8AXI-?usp=share_link
