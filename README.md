@@ -26,3 +26,5 @@ https://www.firstpr.com.au/dsp/pink-noise/#Voss-McCartney
 
 HOMEOMORFISMOS: Espacio Sonoro UAMX (.wav link 6 Chanel)
 https://drive.google.com/drive/folders/1fz_HhQn1NnTcXlnMT4OQdLBMriT8AXI-?usp=share_link
+
+![alt text](https://github.com/carlestapi/Complexity-Interpolator/blob/main/complexity%20interpol.png)
